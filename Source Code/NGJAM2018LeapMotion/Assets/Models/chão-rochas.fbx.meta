@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 782cf84506d8d96429720fc9d0f8db43
+timeCreated: 1526141800
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "ch\xE3o"
+    100002: //RootNode
+    100004: rocha 1
+    100006: rocha 2
+    100008: rocha 3
+    100010: rocha 4
+    100012: rocha 5
+    100014: rocha 6
+    100016: rocha 6.001
+    100018: rocha 6.002
+    100020: rocha 7
+    100022: rocha 8_pequenina.001
+    100024: rocha 8_pequenina.002
+    100026: rocha 8_pequenina.003
+    100028: rocha 8_pequenina.004
+    100030: rocha 8_pequenina.005
+    100032: rocha 8_pequenina.009
+    100034: rocha 8_pequenina.012
+    100036: rocha 8_pequenina.014
+    100038: rocha 8_pequenina.015
+    100040: rocha 8_pequenina.016
+    100042: rocha 8_pequenina.017
+    100044: rocha 8_pequenina.018
+    100046: rocha 8_pequenina.019
+    100048: rocha 8_pequenina.020
+    100050: rocha 8_pequenina.022
+    100052: rocha 8_pequenina.023
+    100054: rocha 8_pequenina.024
+    400000: "ch\xE3o"
+    400002: //RootNode
+    400004: rocha 1
+    400006: rocha 2
+    400008: rocha 3
+    400010: rocha 4
+    400012: rocha 5
+    400014: rocha 6
+    400016: rocha 6.001
+    400018: rocha 6.002
+    400020: rocha 7
+    400022: rocha 8_pequenina.001
+    400024: rocha 8_pequenina.002
+    400026: rocha 8_pequenina.003
+    400028: rocha 8_pequenina.004
+    400030: rocha 8_pequenina.005
+    400032: rocha 8_pequenina.009
+    400034: rocha 8_pequenina.012
+    400036: rocha 8_pequenina.014
+    400038: rocha 8_pequenina.015
+    400040: rocha 8_pequenina.016
+    400042: rocha 8_pequenina.017
+    400044: rocha 8_pequenina.018
+    400046: rocha 8_pequenina.019
+    400048: rocha 8_pequenina.020
+    400050: rocha 8_pequenina.022
+    400052: rocha 8_pequenina.023
+    400054: rocha 8_pequenina.024
+    2100000: Material.022
+    2100002: Material.019
+    2100004: Material.023
+    2100006: Material.014
+    2100008: Material.021
+    2100010: Material.018
+    2100012: Material.020
+    2100014: Material.017
+    2100016: Material.010
+    2100018: Material.025
+    2100020: Material.024
+    2100022: Material.006
+    2100024: Material.009
+    2100026: Material.011
+    2100028: Material.012
+    2100030: Material.013
+    2100032: Material.016
+    2100034: Material.015
+    2100036: Material.008
+    2100038: Material.004
+    2100040: Material.005
+    2100042: Material.003
+    2100044: Material.001
+    2100046: Material.007
+    2100048: Material.002
+    2100050: Material
+    2300000: "ch\xE3o"
+    2300002: rocha 1
+    2300004: rocha 2
+    2300006: rocha 3
+    2300008: rocha 4
+    2300010: rocha 5
+    2300012: rocha 6
+    2300014: rocha 6.001
+    2300016: rocha 6.002
+    2300018: rocha 7
+    2300020: rocha 8_pequenina.001
+    2300022: rocha 8_pequenina.002
+    2300024: rocha 8_pequenina.003
+    2300026: rocha 8_pequenina.004
+    2300028: rocha 8_pequenina.005
+    2300030: rocha 8_pequenina.009
+    2300032: rocha 8_pequenina.012
+    2300034: rocha 8_pequenina.014
+    2300036: rocha 8_pequenina.015
+    2300038: rocha 8_pequenina.016
+    2300040: rocha 8_pequenina.017
+    2300042: rocha 8_pequenina.018
+    2300044: rocha 8_pequenina.019
+    2300046: rocha 8_pequenina.020
+    2300048: rocha 8_pequenina.022
+    2300050: rocha 8_pequenina.023
+    2300052: rocha 8_pequenina.024
+    3300000: "ch\xE3o"
+    3300002: rocha 1
+    3300004: rocha 2
+    3300006: rocha 3
+    3300008: rocha 4
+    3300010: rocha 5
+    3300012: rocha 6
+    3300014: rocha 6.001
+    3300016: rocha 6.002
+    3300018: rocha 7
+    3300020: rocha 8_pequenina.001
+    3300022: rocha 8_pequenina.002
+    3300024: rocha 8_pequenina.003
+    3300026: rocha 8_pequenina.004
+    3300028: rocha 8_pequenina.005
+    3300030: rocha 8_pequenina.009
+    3300032: rocha 8_pequenina.012
+    3300034: rocha 8_pequenina.014
+    3300036: rocha 8_pequenina.015
+    3300038: rocha 8_pequenina.016
+    3300040: rocha 8_pequenina.017
+    3300042: rocha 8_pequenina.018
+    3300044: rocha 8_pequenina.019
+    3300046: rocha 8_pequenina.020
+    3300048: rocha 8_pequenina.022
+    3300050: rocha 8_pequenina.023
+    3300052: rocha 8_pequenina.024
+    4300000: rocha 8_pequenina.024
+    4300002: rocha 8_pequenina.023
+    4300004: rocha 8_pequenina.022
+    4300006: rocha 8_pequenina.020
+    4300008: rocha 8_pequenina.019
+    4300010: rocha 8_pequenina.018
+    4300012: rocha 8_pequenina.017
+    4300014: rocha 8_pequenina.016
+    4300016: rocha 8_pequenina.015
+    4300018: rocha 8_pequenina.014
+    4300020: rocha 8_pequenina.012
+    4300022: rocha 8_pequenina.009
+    4300024: rocha 6.002
+    4300026: rocha 6.001
+    4300028: rocha 8_pequenina.005
+    4300030: rocha 8_pequenina.004
+    4300032: rocha 8_pequenina.003
+    4300034: rocha 8_pequenina.002
+    4300036: rocha 8_pequenina.001
+    4300038: rocha 7
+    4300040: rocha 4
+    4300042: rocha 5
+    4300044: rocha 3
+    4300046: rocha 2
+    4300048: rocha 6
+    4300050: rocha 1
+    4300052: "ch\xE3o"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

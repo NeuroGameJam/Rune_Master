@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGJAM2018LeapMotion", "NGJAM2018LeapMotion.csproj", "{A8DFDC9D-83B7-26EF-EE31-C6C885C237F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGJAM2018LeapMotion.Editor", "NGJAM2018LeapMotion.Editor.csproj", "{35FED8E1-87A2-5212-083D-6C9F58EF8139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DFDC9D-83B7-26EF-EE31-C6C885C237F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DFDC9D-83B7-26EF-EE31-C6C885C237F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DFDC9D-83B7-26EF-EE31-C6C885C237F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DFDC9D-83B7-26EF-EE31-C6C885C237F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FED8E1-87A2-5212-083D-6C9F58EF8139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FED8E1-87A2-5212-083D-6C9F58EF8139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FED8E1-87A2-5212-083D-6C9F58EF8139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FED8E1-87A2-5212-083D-6C9F58EF8139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
